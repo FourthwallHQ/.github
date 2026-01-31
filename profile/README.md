@@ -36,9 +36,9 @@ Your security is a top priority at Fourthwall. If you find any security issues, 
 ## 🤝 Connect With Us
 
 - **Website:** [Fourthwall](https://docs.fourthwall.dev/)
-- **Instagram:** [@lifeatfourthwall](https://www.instagram.com/lifeatfourthwall/)
+- **Instagram:** [@fourthwall](https://www.instagram.com/fourthwall/)
 - **Career Opportunities:** [Come Work With Us](https://jobs.fourthwall.com)
-- **Support:** [hello@fourthwall.com](mailto:hello@fourthwall.com)
+- **Support:** [support@fourthwall.com](mailto:support@fourthwall.com)
 
 ### Join Our Community 🌐
 - [Discord](https://discord.gg/t5Vm6Q2425)
