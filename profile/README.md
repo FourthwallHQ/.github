@@ -23,7 +23,7 @@ There's so much more you can do! Dive into our [documentation](https://docs.four
 
 ## 📚 Check Out Our Documentation 
 
-Explore our [documentation](https://docs.fourthwall.dev/) and find helpful guides and tips that will assist you in setting up and running your creator platform without a hitch!
+Explore our [documentation](https://docs.fourthwall.com/) and find helpful guides and tips that will assist you in setting up and running your creator platform without a hitch!
 
 ## 🌟 Let's Create Together
 
