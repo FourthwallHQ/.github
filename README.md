@@ -31,7 +31,7 @@ Your ideas and feedback make our platform better! Let's build a brighter and mor
 
 ## 🔒 Security First
 
-Your security is a top priority at Fourthwall. If you find any security issues, please let our security team know at [security@fourthwall.com](mailto:security@fourthwall.com).
+Your security is a top priority at Fourthwall. If you find any security issues, please report them through our Vulnerability Disclosure Program at [https://vdp.fourthwall.com/](https://vdp.fourthwall.com/).
 
 ## 🤝 Connect With Us
 
